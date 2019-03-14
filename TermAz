@@ -16,7 +16,7 @@ ancestral sampling - keçmiş(kök) nümunə
 approximation - uyğunlaşma
 approximate bayesian computation - təxmini bayes hesablama
 approximate inference - təxmini çıxış
-array - arey
+array - ərey
 artificial intelligence - süni intellekt
 artificial neural network - süni neyron(sinir) şəbəkəsi
 asymptotically unbiased - asimptotik qərarsızlıq
@@ -25,4 +25,15 @@ audio - səs
 autoencoder - avtomatik kodlayıcı
 automatic speech recognition - nitq(səs,danışıq) tanıma
 autoregressive network - reqresiv şəbəkələr
+
+
+                B
+ 
+back-propagation - geri yayılım
+back-propagation through time - zamanla geri yayılım
+bag of words - söz çantası
+bagging - torbalama
+batch - yığın(dəstə)
+batch normalization - yığının normallaşdırılması
+Bayes error - bayes xətası
 
