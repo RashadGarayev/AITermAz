@@ -1,4 +1,4 @@
-﻿# DLTermAz
+﻿# AITermAz
 * **Süni intelekt,Maşın Öyrənmə və Dərin Öyrənmə sahəsində istifadə olunan terminlərin  Azərbaycan dilində qarşılığı**
 
 >Terminlər aşağıdakı kitabdan istifadə edilmişdir.
