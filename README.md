@@ -1,2 +1,2 @@
 # DLTermAz
-Dərin Öyrənmə terminlərin Azərbaycan dilində qarşılığı
+Süni intelekt,Maşın Öyrənmə və Dərin Öyrənmə sahəsində istifadə olunan terminlərin  Azərbaycan dilində qarşılığı
