@@ -4,8 +4,8 @@
 >Terminlər aşağıdakı kitabdan istifadə edilmişdir.
 
 # Deep Learning(Dərin Öyrənmə)
-*Book by Aaron C. Courville, Ian Goodfellow, and Yoshua Bengio 
-- An introduction to a broad range of topics in deep learning, covering mathematical and conceptual background, deep learning techniques used in industry, and research perspectives.“Written by three ... Google Books*
+Book by Aaron C. Courville, Ian Goodfellow, and Yoshua Bengio 
+- An introduction to a broad range of topics in deep learning, covering mathematical and conceptual background, deep learning techniques used in industry, and research perspectives.“Written by three ... Google Books
 
 - Originally published: 2015
 
